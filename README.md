@@ -4,7 +4,7 @@ This is part of speech rate measure project.
 This is the server side of web-application which is part of ML project to measure Speech Rate.
 
 ## Installation instructions
-For windows - you can install the .exe file here, and after installation complete, run the file: "run_speech_server.bat"
+For windows - you can install the file [here](https://github.com/almog1/SpeechMeasureServer/tree/main/serverInstaller), and after installation complete, run the file: "run_speech_server.bat"
 
 or 
 
